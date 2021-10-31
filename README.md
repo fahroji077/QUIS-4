@@ -30,3 +30,12 @@ konsep 2
 
 2. Berapa liter/detik debit air
 
+![image](https://user-images.githubusercontent.com/93015185/139583593-3862e1d5-a869-4c8b-a690-544db4563101.png)
+![image](https://user-images.githubusercontent.com/93015185/139583756-37924de2-8ee8-41ab-ae0c-13ce6f73f927.png)
+![image](https://user-images.githubusercontent.com/93015185/139583806-b7983e43-6319-4a2b-a90f-d3e14fb6e03e.png)
+
+3.Berapa banyak air yang bisa dipindahkan
+
+![image](https://user-images.githubusercontent.com/93015185/139583991-f9fae919-902a-43c3-b196-08cd98b339a7.png)
+![image](https://user-images.githubusercontent.com/93015185/139583985-ca8ec462-cb5e-4edc-b427-b20d8de5220d.png)
+![image](https://user-images.githubusercontent.com/93015185/139584039-a08aedc8-3b1f-4e59-a01e-c5ec81cc901d.png)
