@@ -24,3 +24,9 @@ konsep 2
 
 1. Berapa cm3/ detik debit
 
+![image](https://user-images.githubusercontent.com/93015185/139583416-38f8fe5e-e1e2-4cd7-9011-a5801158598d.png)
+![image](https://user-images.githubusercontent.com/93015185/139583401-dc81bdc2-60ec-48a2-8fac-1daf9911d0bf.png)
+![image](https://user-images.githubusercontent.com/93015185/139583442-e3eea596-e42b-44a4-b47a-28cc3c04a5ea.png)
+
+2. Berapa liter/detik debit air
+
